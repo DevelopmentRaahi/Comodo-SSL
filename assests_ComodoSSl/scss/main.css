@@ -115,6 +115,11 @@ body {
     text-align: center;
     padding: 0.5rem 0.5rem 0rem 0rem;
   }
+  .row-design_gap .first_section h2 {
+    font-size: 2.4rem;
+    line-height: 1.5;
+    font-weight: 600;
+  }
   .section_main {
     display: flex;
     flex-direction: column;
@@ -167,7 +172,8 @@ body {
 }
 .row-design_gap h2 {
   font-size: 3.7rem;
-  color: #2e2e2e;
+  color: #334b7b;
+  line-height: 1.4;
   font-weight: 700;
 }
 .row-design_gap h2 span {
@@ -621,7 +627,7 @@ body {
     font-size: 1.2rem;
   }
   .row-design_gap h2 {
-    font-size: 3rem;
+    font-size: 2.4rem;
   }
   .main_heading-1 h1 {
     font-size: 2rem;
@@ -629,6 +635,7 @@ body {
   }
   .price_end h4 {
     font-size: 2rem !important;
+    font-weight: 600 !important;
   }
   .price_end p {
     font-size: 1.2rem !important;
@@ -716,7 +723,7 @@ body {
 .price_end h4 {
   text-align: center;
   font-size: 2.5rem;
-  font-weight: 700;
+  font-weight: 600;
   color: rgb(47, 78, 126);
 }
 .price_end > * {

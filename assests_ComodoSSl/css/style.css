@@ -735,7 +735,7 @@ footer,.footer-section{
 
 .services .service-item h3 {
   font-size: 24px;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .services .service-item .read-more {
@@ -869,14 +869,14 @@ footer,.footer-section{
 #services{
   padding: 2rem 0;
 }
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 876px) {
   .section-title p{
     font-size: 24px;
     font-weight: 600;
   }
   .services .service-item h3{
-    font-weight: 500;
-    font-size: 22px;
+    font-weight: 600;
+    font-size: 20px;
   }
 }
 

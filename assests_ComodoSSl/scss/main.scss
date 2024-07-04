@@ -178,6 +178,11 @@ $one_two_three_color :rgb(255 89 18);
             padding: 0.5rem 0.5rem 0rem 0rem;
         }
     }
+    .row-design_gap .first_section h2  {
+        font-size: 2.4rem;
+        line-height: 1.5;
+        font-weight: 600;
+    }
      .section_main{
         display: flex;
         flex-direction: column;
@@ -251,7 +256,8 @@ $one_two_three_color :rgb(255 89 18);
 
         h2 {
             font-size: 3.7rem;
-            color: #2e2e2e;
+            color:#334b7b;
+            line-height: 1.4;
             font-weight: 700;
 
             span {
@@ -854,7 +860,7 @@ $des_heading_color: #5b72a0;
 
     .row-design_gap {
         h2 {
-            font-size: 3rem;
+            font-size: 2.4rem;
         }
     }
 
@@ -868,6 +874,7 @@ $des_heading_color: #5b72a0;
     .price_end {
         h4 {
             font-size: 2rem !important;
+            font-weight: 600 !important;
         }
 
         p {
@@ -994,7 +1001,7 @@ $add_cart_color: #4e84c6;
     h4 {
         text-align: center;
         font-size: 2.5rem;
-        font-weight: 700;
+        font-weight: 600;
         color: $heading_color;
     }
 
